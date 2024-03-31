@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="_5">5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="add_to_list">ADD TO LIST</string>
+    <string name="rating">Rating</string>
+    <string name="description">Description</string>
+    <string name="phone">Phone</string>
+    <string name="location">Location</string>
+    <string name="name">Name</string>
+    <string name="add_new_restaurant">Add new restaurant</string>
+    <string name="for_eg_location_xyz">for eg location: xyz</string>
+    <string name="add">ADD</string>
+    <string name="search_by_rating">Search by rating</string>
+</resources>
